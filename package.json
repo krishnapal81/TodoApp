@@ -1,6 +1,5 @@
 {
   "name": "todo-list",
-  "homepage": "https://github.com/krishnapal81/TodoApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
